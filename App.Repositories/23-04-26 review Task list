@@ -1,0 +1,23 @@
+1. Inside back-end remove build file add on git ignore file
+2. partial uses
+3. ICollection use in Entities why use
+4. Inherited common fields like id, idclient, createby
+5.  why use virtual inside entity model
+6. Byte[] data type why use and when use, how to work
+7. Null why use inside entity property 
+8. dynamic how to work, why 
+9. different double quotation vs string.empty
+10 remove unnecessary middleware
+11.Null Handling
+12.For debug first define query then return 
+13.Remove Include from query use sprite query
+14.new list<a>() remove add []
+15.remove repository and context add on service 
+16.fix update method (Query level)
+17. savechanges() return modified rows or created rows must add condition if(savechanges()> 0)
+18.Utc Global. different DateTime.UtcNow and DateTime.Now
+19.AddDatabase Database Lifetime 
+20.Program Class Refactor
+21.Eager Loading why use and when use
+22.Common repository refactor - first define then return and handling null 
+23. All Lifetime hook in asp.net core
